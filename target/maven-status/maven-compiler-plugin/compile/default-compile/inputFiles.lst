@@ -1,0 +1,10 @@
+/home/gabo/Documents/Programas/NetBeansProjects/CRUD_test2/src/main/java/client/ICliente.java
+/home/gabo/Documents/Programas/NetBeansProjects/CRUD_test2/src/main/java/dto_strategy/PerroDTO.java
+/home/gabo/Documents/Programas/NetBeansProjects/CRUD_test2/src/main/java/dto_strategy/IObjectDTO.java
+/home/gabo/Documents/Programas/NetBeansProjects/CRUD_test2/src/main/java/client/Cliente.java
+/home/gabo/Documents/Programas/NetBeansProjects/CRUD_test2/src/main/java/dao/PersonaDAO.java
+/home/gabo/Documents/Programas/NetBeansProjects/CRUD_test2/src/main/java/dto_strategy/PersonaDTO.java
+/home/gabo/Documents/Programas/NetBeansProjects/CRUD_test2/src/main/java/dto_strategy/Contexto.java
+/home/gabo/Documents/Programas/NetBeansProjects/CRUD_test2/src/main/java/connection/Conexion.java
+/home/gabo/Documents/Programas/NetBeansProjects/CRUD_test2/src/main/java/dao/PerroDAO.java
+/home/gabo/Documents/Programas/NetBeansProjects/CRUD_test2/src/main/java/test/testCRUD.java

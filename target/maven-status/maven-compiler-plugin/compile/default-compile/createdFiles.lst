@@ -1,0 +1,8 @@
+dto_strategy/PerroDTO.class
+client/ICliente.class
+dao/PerroDAO.class
+dto_strategy/Contexto.class
+dao/PersonaDAO.class
+connection/Conexion.class
+dto_strategy/PersonaDTO.class
+dto_strategy/IObjectDTO.class
